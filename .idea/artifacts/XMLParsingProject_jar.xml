@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XMLParsingProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XMLParsingProject_jar</output-path>
+    <root id="archive" name="XMLParsingProject.jar">
+      <element id="module-output" name="XMLParsingProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
